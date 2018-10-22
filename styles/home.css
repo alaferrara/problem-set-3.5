@@ -1,4 +1,27 @@
 /*mystyle.css */
+
+body p {
+  display: inline;
+}
+.nav {
+  display: inline;
+
+}
+#center {
+  text-align: center;
+}
+img {
+  border-radius: 20px;
+  border: 10px dashed blue;
+}
+
 body {
-    background-color: silver;
+  background-color: lightgrey;
+}
+
+a:hover {
+  background-color: dodgerblue;
+}
+.nav:visited {
+  color: pink;
 }
