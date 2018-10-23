@@ -11,6 +11,8 @@ body p {
   text-align: center;
 }
 img {
+  height: 400px;
+  width: 600px;
   border-radius: 20px;
   border: 10px dashed blue;
 }
@@ -22,6 +24,15 @@ body {
 a:hover {
   background-color: dodgerblue;
 }
-.nav:visited {
-  color: green;
+a:visited {
+  color: white;
+}
+a:active {
+  color:red;
+}
+h1 {
+  color: darkblue;
+  font-style: normal;
+  font-weight: 600;
+  font-family: "Veranda", sans-serif;
 }
