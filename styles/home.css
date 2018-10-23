@@ -36,3 +36,18 @@ h1 {
   font-weight: 600;
   font-family: "Veranda", sans-serif;
 }
+* {
+  color: black;
+}
+a[href="./index.html"] {
+  color: blue;
+}
+a[href="./Page 2.html"] {
+  color: red;
+}
+a[href="./Page 3.html"] {
+  color: blue;
+}
+a[href="./Page 4.html"] {
+  color: red;
+}
