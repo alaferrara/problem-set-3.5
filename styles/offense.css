@@ -1,4 +1,36 @@
 /*mystyle.css */
 
 h1 {
-  font: 
+  font-style: normal;
+  font-size: 5vw;
+  font-weight: 600;
+  font-family: "Times New Roman", serif;
+  text-decoration: underline ;
+}
+.list {
+  font-weight: bold;
+}
+#border {
+  border: white 2px solid; 
+}
+img {
+  position: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+body {
+  background-color: lightgrey;
+}
+a:hover {
+  background-color: dodgerblue;
+}
+a:active {
+  color:red;
+}
+.nav:visited {
+  color: ;
+}
