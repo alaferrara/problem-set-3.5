@@ -25,3 +25,12 @@ h1 {
   font-family: "Georgia", serif;
   text-decoration: none;
 }
+h2 + p {
+  background-color: lightgrey;
+}
+h1 ~ p {
+  background-color: lightgrey;
+}
+h1 > p {
+  background-color: lightgrey;
+}
